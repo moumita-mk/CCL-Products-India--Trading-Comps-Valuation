@@ -50,8 +50,14 @@ The analysis uses publicly available annual reports, market information and brok
 ## Author
 
 **Moumita Dey** — FMVA Certified  
-[moumi230790@gmail.com](mailto:moumi230790@gmail.com)
+[moumi230790@gmail.com](mailto:moumi230790@gmail.com) 
+
+## The complete working Excel model is available upon request for recruitment and professional evaluation purposes.
 
 ## Disclaimer
 
 This independent educational portfolio project is unaffiliated with and not endorsed by CCL Products (India) Limited or any peer company. It is based on publicly available information and does not constitute investment advice.
+
+## © 2026 Moumita Dey. All rights reserved.
+
+This project is provided solely for portfolio review and educational demonstration. Reproduction, redistribution, commercial use, or presentation of this work as another person’s original work is prohibited without prior written permission.
